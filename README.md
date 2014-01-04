@@ -13,8 +13,18 @@ Completed:
  
 ToDo:
 
+ - Perplexity
  - Chi Squared
  - Viterbi
+ - _k_-means
+ - _k_-medoids
+ - _k_-nearest neighbors (kNN)
+ - Beam Search
+ - Transformation-Based Learning (TBL)
+ - Cocke-Younger-Kasami (CYK/PCYK) 
+ - Hidden Markov Model
+ - Decision Tree
+ - Winnow
  - Naive Bayes (NB)
  - Maximum Entropy (MaxEnt)
  - Support Vector Machines (SVM)
