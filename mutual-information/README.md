@@ -14,6 +14,7 @@ of the term in the collection of classes as whole.
 Consider the following matrix:
     
 |                        | In class Obituaries | Outside of class Obituaries |
+|------------------------|---------------------|-----------------------------|
 | Term 'orange' seen     |  49                 | 27,652                      |
 | Term 'orange' not seen |  141                | 774,106                     |
 
